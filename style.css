@@ -1,0 +1,74 @@
+
+
+
+
+body {
+
+	font-family: Arial;
+	font-size: 12px;
+	line-height: 1.5em;
+	color: #fff;
+	width: 100%;
+} 
+
+#templatemo_container {
+    width: 797px;
+    margin: auto;
+}
+
+ #templatemo_menu {
+	float: left;
+	width: 747px;
+	height: 30px;
+	background: #000000;
+	margin-left: 25px;
+} 
+
+
+ #templatemo_menu ul {
+	float: left;
+	width: 800px;
+	margin: 0;
+	padding: 7px 0 0 0;
+	list-style: none;
+} 
+
+#templatemo_menu ul li a{
+	float: left;
+	padding: 0 25px;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	color: #FFFFFF;
+	
+} 
+
+#templatemo_header_pizza {
+	width: 797px;
+	height: 317px;
+	background:url(templatemo_header_pizza.jpg) no-repeat;
+}
+
+#s{
+	font-size: 30px;
+	color:  #00000;
+}
+
+#lower{
+	
+background-color:  #ff3708;
+	height: 300px;	
+}
+
+#p{
+	font-size: 20px;
+	color:  #00000;
+}
+#w{
+color:  white;	
+}
+
+
+
+
+
